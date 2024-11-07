@@ -1,1 +1,1 @@
-# react-18-and-next-14n
+rename next.config.ts to next.config.js
